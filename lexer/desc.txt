@@ -1,0 +1,1 @@
+A Program that imitates a lexical analyzer
